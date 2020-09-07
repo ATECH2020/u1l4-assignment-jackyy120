@@ -7,12 +7,14 @@ class StudentDesks {
         Scanner scanner = new Scanner(System.in);
 
         //Reads ints from user
-        
+        int class1 = scanner.nextInt();
+        int class2 = scanner.nextInt();
+        int class3 = scanner.nextInt();
 
         /*
          *  your code goes here
          */
-
+          
 
         // closing the scanner object
         scanner.close();
